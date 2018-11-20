@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tableLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TableLayout
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TableRow>
+
+            <ImageButton
+                android:id="@+id/f0c0"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f0c1"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f0c2"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f0c3"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f0c4"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f0c5"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f0c6"
+                style="@style/Ficha" />
+        </TableRow>
+
+        <TableRow>
+
+            <ImageButton
+                android:id="@+id/f1c0"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f1c1"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f1c2"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f1c3"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f1c4"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f1c5"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f1c6"
+                style="@style/Ficha" />
+        </TableRow>
+
+        <TableRow>
+
+            <ImageButton
+                android:id="@+id/f2c0"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f2c1"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f2c2"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f2c3"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f2c4"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f2c5"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f2c6"
+                style="@style/Ficha" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/f3c0"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f3c1"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f3c2"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f3c3"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f3c4"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f3c5"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f3c6"
+                style="@style/Ficha" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/f4c0"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f4c1"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f4c2"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f4c3"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f4c4"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f4c5"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f4c6"
+                style="@style/Ficha" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/f5c0"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f5c1"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f5c2"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f5c3"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f5c4"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f5c5"
+                style="@style/Ficha" />
+
+            <ImageButton
+                android:id="@+id/f5c6"
+                style="@style/Ficha" />
+        </TableRow>
+
+    </TableLayout>
+</android.support.constraint.ConstraintLayout>
